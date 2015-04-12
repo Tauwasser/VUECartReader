@@ -67,4 +67,8 @@ to include them and avoid version conflicts.
 
 ## Legalese
 
-Virtual Boy™ is a trademark by Nintendo. Nintendo is a registered trademark.
+I'm not affiliated with Nintendo in any way.
+
+Virtual Boy™ is a trademark by Nintendo. Nintendo® is a registered trademark. All other trademarks are property of their respective owner.
+
+USB VID/PID are LUFA Test VID/PID. This is a one-off development project and not a commercial product. Public hosting of thise code does not constitute a release to the general public.
