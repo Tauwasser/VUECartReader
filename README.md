@@ -1,11 +1,11 @@
-# USB interface/dumper for the Nintendo® Virtual Boy™ Cartridges
+# USB interface/dumper for Nintendo® Virtual Boy™ Cartridges
 
 This is the hardware design for the Virtual Boy™ (VUE) Cart Reader. The reader consists of an ATmega32U2 which interfaces
 with USB and a VUE Game Edge Connector (GEC) Receptacle (REC) to communicate both ways.
 
 For information on the firmware, check out the firmware branch *master*.
 
-For information of the software, check out the software branch *reader_sw*.
+For information on the software, check out the software branch *reader_sw*.
 
 ## Principle of Operation
 
